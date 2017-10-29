@@ -1,6 +1,6 @@
 %% M2-a)
 
-%% Variables
+%% Variables bakam olmus mu 
 
 x = [1 9 3 6 7 8 0];
 h = rand(1,4);
